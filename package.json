@@ -1,0 +1,26 @@
+{
+  "name": "elastic-charts-playground",
+  "version": "1.0.0",
+  "description": "A simple @elastic/charts playground",
+  "keywords": ["elastic", "charts", "data visualization", "datavis"],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@elastic/charts": "19.7.0",
+    "moment-timezone": "0.5.28",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-scripts": "3.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
