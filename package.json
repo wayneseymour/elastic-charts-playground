@@ -6,7 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@elastic/charts": "19.7.0",
-    "moment-timezone": "0.5.28",
+    "moment-timezone": "0.5.35",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-scripts": "3.3.0"
